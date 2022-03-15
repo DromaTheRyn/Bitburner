@@ -1,6 +1,7 @@
 /* 
 Initially forked from https://github.com/kamukrass/Bitburner
-This script expands on his excellent work by adding new functionality and some optimizations based on the Bitburner source code.
+This script soon expands on his excellent work by adding new functionality and some optimizations based on the Bitburner source code.
+For now, it allows the existence of other industry divisions without throwing errors.
 */
 
 /** @param {NS} ns **/
